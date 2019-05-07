@@ -1,5 +1,6 @@
 #include<iostream>
-#include<cstring>
+#include<string>
+#include<stack>
 using namespace std;
 
 int main(){
@@ -8,13 +9,36 @@ int main(){
         string s;
         int n;
         cin>>n>>s;
-        int result=0;
+        stack<int> stack1;
+        stack<int> stack2;
         for(int i=0; i<n; i++){
-            if(s[i]!=43){
-                result+=s[i]-48;
+            if(s[i]>=48&&s[i]<=57){
+                stack1.push(s[i]-48);
+            }
+            if(s[i]==42||s[i]==43){
+                if(s[i]==stack2.top()||s[i]>stack2.top()){
+                    int temp=stack1.top()-48;
+                    stack1.pop();
+                    while(!stack2.empty()){
+                        if(stack2.top()==42){
+                            temp*=stack1.top()-48;
+                            stack1.pop();
+                            stack2.pop();
+                        }
+                        else if(stack2.top()==43){
+                            temp+=stack1.top()-48;
+                            stack1.pop();
+                            stack2.pop();
+                        }
+                    }
+                    stack1.push(temp+48);
+                }
+                else{
+                    stack2.push(s[i]);
+                }
             }
         }
-        cout<<result<<endl;
+        cout<<stack1.top()-48<<endl;
     }
     return 0;
 }
