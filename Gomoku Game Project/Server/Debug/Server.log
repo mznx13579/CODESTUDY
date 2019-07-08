@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Server\main.cpp(55,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Server\main.cpp(66,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Server\main.cpp(83,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Server\main.cpp(94,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Server\main.cpp(115,23): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Server\main.cpp(166,22): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  Server.vcxproj -> C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Debug\Server.exe

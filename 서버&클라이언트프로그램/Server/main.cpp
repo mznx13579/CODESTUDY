@@ -6,7 +6,7 @@ using namespace std;
 
 void ShowErrorMessage(string message)
 {
-	cout << "[ERROR CURRUPT]: " << message << '\n';
+	cout << " [ERROR CURRUPT]: " << message << '\n';
 	system("pause");
 	exit(1);
 }
@@ -33,7 +33,7 @@ int main()
 	serverAddress.sin_addr.s_addr = htonl(INADDR_ANY);
 	serverAddress.sin_port = htons(serverPort);
 	if (bind(serverSocket, (SOCKADDR*)& serverAddress, sizeof(serverAddress)) == SOCKET_ERROR)
-		ShowErrorMessage("bind()");
+		ShowErrorMessage("bind()"); 
 	cout << "[현재 상태] bind()\n";
 	
 	if (listen(serverSocket, 5) == SOCKET_ERROR)
