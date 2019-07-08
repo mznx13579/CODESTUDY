@@ -3,11 +3,12 @@
 #include <string>
 #include <winsock2.h>
 
+
 using namespace std;
 
 void ShowErrorMessage(string message)
 {
-	cout << "[오류 발생]:" << message << '\n';
+	cout << " [오류 발생]:" << message << '\n';
 	system("pause");
 	exit(1);
 }

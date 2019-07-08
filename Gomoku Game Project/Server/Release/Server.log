@@ -1,0 +1,16 @@
+﻿  Client.cpp
+  main.cpp
+  Server.cpp
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Server\Server.h(29,2): warning C4091:  'static ': 변수를 선언하지 않으면 'Server' 왼쪽은 무시됩니다.
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Server\Server.h(29,2): warning C4091:  'static ': 변수를 선언하지 않으면 'Server' 왼쪽은 무시됩니다.
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Server\Server.cpp(27,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Server\Server.cpp(44,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Server\Server.cpp(54,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Server\Server.cpp(65,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  Util.cpp
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Server\Server.cpp(148,22): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 278 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Server.vcxproj -> C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Release\Server.exe
