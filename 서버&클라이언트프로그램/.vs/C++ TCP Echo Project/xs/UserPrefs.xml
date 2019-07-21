@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Client/main.cpp">
+    <Files>
+      <File FileName="Client/main.cpp" Line="15" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x64" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
