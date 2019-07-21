@@ -1,0 +1,11 @@
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Client\bin\Debug\Client.exe.config
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Client\bin\Debug\Client.exe
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Client\bin\Debug\Client.pdb
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Client\obj\Debug\Client.exe
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Client\obj\Debug\Client.pdb
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Client\obj\Debug\Client.MenuForm.resources
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Client\obj\Debug\Client.SinglePlayForm.resources
+C:\Users\jeongseong-yun\source\repos\Gomoku Game Project\Client\obj\Debug\Client.MultiPlayForm.resources
