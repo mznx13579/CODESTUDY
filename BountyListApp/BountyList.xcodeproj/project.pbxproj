@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E401BDC722E60A92000C112A /* BountyInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E401BDC622E60A92000C112A /* BountyInfo.swift */; };
 		E42A744B22DC6D5C00B83EF2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42A744A22DC6D5C00B83EF2 /* AppDelegate.swift */; };
 		E42A745022DC6D5C00B83EF2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E42A744E22DC6D5C00B83EF2 /* Main.storyboard */; };
 		E42A745222DC6D5E00B83EF2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E42A745122DC6D5E00B83EF2 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E401BDC622E60A92000C112A /* BountyInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BountyInfo.swift; sourceTree = "<group>"; };
 		E42A744722DC6D5C00B83EF2 /* BountyList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BountyList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E42A744A22DC6D5C00B83EF2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E42A744F22DC6D5C00B83EF2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				E42A744A22DC6D5C00B83EF2 /* AppDelegate.swift */,
 				E4A9378922DCA7E400C5FC3F /* BountyViewController.swift */,
+				E401BDC622E60A92000C112A /* BountyInfo.swift */,
 				E42F977622E5A39F00BABA4F /* DetailViewController.swift */,
 				E42A744E22DC6D5C00B83EF2 /* Main.storyboard */,
 				E42A745122DC6D5E00B83EF2 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E401BDC722E60A92000C112A /* BountyInfo.swift in Sources */,
 				E42F977722E5A39F00BABA4F /* DetailViewController.swift in Sources */,
 				E42A744B22DC6D5C00B83EF2 /* AppDelegate.swift in Sources */,
 				E4A9378A22DCA7E400C5FC3F /* BountyViewController.swift in Sources */,
