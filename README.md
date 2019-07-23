@@ -1,7 +1,7 @@
 ### CODESTUDY
 
 
-##Hi ! I'm SeongYun
+## Hi ! I'm SeongYun
 
 
 ***출처 : 위의 작품들 중 몇몇은 아래의 강좌에서 참고하여 제작되었습니다.***
