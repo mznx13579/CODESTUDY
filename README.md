@@ -23,6 +23,7 @@ visual studio를 활용하여 서버와 클라이언트 환경으로 오목을 �
 unity를 배우며 3D RPG를 만들며 실습했습니다.
 공격과 스킬을 사용하여 몬스터를 잡습니다.
 [image]
+<img width="1008" alt="스크린샷 2019-09-09 오전 4 59 12" src="https://user-images.githubusercontent.com/26242147/64493714-919b3d00-d2be-11e9-9eef-16ffbe4afa00.png">
 
 ### ShootingGames_unity
 
