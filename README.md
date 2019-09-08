@@ -13,9 +13,8 @@
 swift를 사용하여 앱 제작을 실습했습니다.
 [image]
 
-<img width="448" alt="스크린샷 2019-09-09 오전 4 11 59" src="https://user-images.githubusercontent.com/26242147/64493738-ea6ad580-d2be-11e9-84ef-336edfa455d9.png">
 
-<img width="450" alt="스크린샷 2019-09-09 오전 4 12 05" src="https://user-images.githubusercontent.com/26242147/64493741-f0f94d00-d2be-11e9-99b3-f7ebecf76e2b.png">
+<img width="817" alt="스크린샷 2019-09-09 오전 5 03 15" src="https://user-images.githubusercontent.com/26242147/64493759-29009000-d2bf-11e9-8f88-cdbceff38d7f.png">
 
 
 ### Gomoku Game Project
