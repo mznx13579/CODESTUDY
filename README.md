@@ -37,6 +37,11 @@ unity를 배우며 3D RPG를 만들며 실습했습니다.
 unity로 갤러그를 만들며 실습했습니다.
 [image]
 
+<img width="1002" alt="스크린샷 2019-09-09 오전 5 04 54" src="https://user-images.githubusercontent.com/26242147/64493777-66651d80-d2bf-11e9-9320-ed4583f635c9.png">
+
+<img width="990" alt="스크린샷 2019-09-09 오전 5 05 00" src="https://user-images.githubusercontent.com/26242147/64493779-682ee100-d2bf-11e9-885c-9fca27f4061a.png">
+
+
 ### mnist 필기체 인식 알고리즘
 
 0123456789의 필기체 숫자를 학습데이터와 시험데이터를 이용해 필기체를 인식합니다.
