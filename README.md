@@ -22,6 +22,10 @@ swift를 사용하여 앱 제작을 실습했습니다.
 visual studio를 활용하여 서버와 클라이언트 환경으로 오목을 동시 접속할 수 있게 실습했습니다.
 위 오목은 알파-베타 프루밍 기법을 사용하여 혼자 컴퓨터와 대결할 수 있는 게임입니다.
 
+![캡처](https://user-images.githubusercontent.com/26242147/64902754-12f03680-d6e8-11e9-91f9-17665a72b0ce.JPG)
+![캡처2](https://user-images.githubusercontent.com/26242147/64902755-14b9fa00-d6e8-11e9-9a6d-d8f4f6ce27aa.JPG)
+
+
 ### RPG_Game_unity
 
 unity를 배우며 3D RPG를 만들며 실습했습니다.
