@@ -15,7 +15,7 @@ swift를 사용하여 앱 제작을 실습했습니다.
 
 
 <img width="817" alt="스크린샷 2019-09-09 오전 5 03 15" src="https://user-images.githubusercontent.com/26242147/64493759-29009000-d2bf-11e9-8f88-cdbceff38d7f.png">
-
+[fastcampus] online.fastcampus.co.kr / 올인원패키지 : 모바일앱 개발 이준원 강사
 
 ### Gomoku Game Project
 
@@ -25,7 +25,7 @@ visual studio를 활용하여 서버와 클라이언트 환경으로 오목을 �
 ![캡처](https://user-images.githubusercontent.com/26242147/64902754-12f03680-d6e8-11e9-91f9-17665a72b0ce.JPG)
 ![캡처2](https://user-images.githubusercontent.com/26242147/64902755-14b9fa00-d6e8-11e9-9a6d-d8f4f6ce27aa.JPG)
 
-
+[fastcampus] online.fastcampus.co.kr / 올인원패키지 : 컴퓨터공학 나동빈 강사
 ### RPG_Game_unity
 
 unity를 배우며 3D RPG를 만들며 실습했습니다.
@@ -36,6 +36,9 @@ unity를 배우며 3D RPG를 만들며 실습했습니다.
 
 <img width="892" alt="스크린샷 2019-09-09 오전 5 00 50" src="https://user-images.githubusercontent.com/26242147/64493725-cb6c4380-d2be-11e9-9580-b86da36e24c7.png">
 
+[fastcampus] online.fastcampus.co.kr / 올인원패키지 : 게임제작 주세영 강사
+
+
 ### ShootingGames_unity
 
 unity로 갤러그를 만들며 실습했습니다.
@@ -45,6 +48,7 @@ unity로 갤러그를 만들며 실습했습니다.
 
 <img width="990" alt="스크린샷 2019-09-09 오전 5 05 00" src="https://user-images.githubusercontent.com/26242147/64493779-682ee100-d2bf-11e9-885c-9fca27f4061a.png">
 
+[fastcampus] online.fastcampus.co.kr / 올인원패키지 : 게임제작 주세영 강사
 
 ### mnist 필기체 인식 알고리즘
 
@@ -54,6 +58,7 @@ unity로 갤러그를 만들며 실습했습니다.
 ### 서버&클라이언트프로그램
 
 서버와 클라이언트 환경을 winsock으로 구현하여 실습해보았습니다.
+[fastcampus] online.fastcampus.co.kr / 올인원패키지 : 컴퓨터공학 나동빈 강사
 
 출처 : 위의 작품들 중 일부는 아래의 강좌에서 참고하여 제작되었습니다.
 
