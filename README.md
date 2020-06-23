@@ -1,5 +1,9 @@
 # CODESTUDY
 ## Hi ! I'm SeongYun
+### Vue, Spring Project 포트폴리오 링크  
+https://drive.google.com/file/d/1LyJXtJv8faBQYV7axZWNMFfGCFQw602a/view?usp=sharing   
+
+
 
 ### AI 소논문 작성
 
